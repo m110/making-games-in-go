@@ -8,6 +8,8 @@ To run it, simply execute:
 go run github.com/m110/making-games-in-go@latest
 ```
 
+Or in your browser: https://m110.github.io/making-games-in-go/
+
 The snippets are split into "scenes". Each `Scene` is an interface similar to Ebitengine's `Game`.
 It's like a tiny games running inside the game, which makes it easy to switch between them.
 
