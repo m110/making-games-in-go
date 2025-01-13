@@ -1,5 +1,7 @@
 # Making Games in Go
 
+![](https://github.com/user-attachments/assets/3ee13119-29d1-4421-b74a-d9db2dfec21f)
+
 This repository contains the code snippets I used during my talk "Making Games in Go (For Fun)".
 
 To run it, simply execute:
